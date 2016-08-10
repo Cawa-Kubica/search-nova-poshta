@@ -23,6 +23,10 @@ $np = new NovaPoshtaApi2(
 
 Если есть необходимость вывести дополнительные элементы, указать более подробное описание меток и т.д., воспользуйтесь описанием от автора класса работающего с API Новой почты: [https://github.com/lis-dev/nova-poshta-api-2](https://github.com/lis-dev/nova-poshta-api-2)
 
+## Как должно выглядеть
+
+Если всё установили и прописали корректно, то скрипт будет выглядеть примерно так:
+![Image alt](https://github.com/Cawa-Kubica/search-nova-poshta/blob/master/screen.png)
 
 ## Дополнительно
 
