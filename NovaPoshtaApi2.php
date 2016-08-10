@@ -1,5 +1,7 @@
 <?php
 
+// Класс для работы с API Новой почты by: https://github.com/lis-dev/nova-poshta-api-2/
+
 class NovaPoshtaApi2 {
 	/**
 	 * Key for API NovaPoshta
