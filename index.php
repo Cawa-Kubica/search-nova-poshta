@@ -53,9 +53,9 @@ $(document).ready (function () { // воспользоватся функцие�
 require 'NovaPoshtaApi2.php'; // подключаем класс для работы с API новой почты
 
 $np = new NovaPoshtaApi2(
-    'dab75bd1ebdaff1a30136bcfc28dcefb',
+    'YOUR API KEY',
     'ru', // Язык возвращаемых данных: ru (default) | ua | en
-    TRUE, // При ошибке в запросе выбрасывать Exception: FALSE (default) | TRUE
+    FALSE, // При ошибке в запросе выбрасывать Exception: FALSE (default) | TRUE
     'curl' // Используемый механизм запроса: curl (defalut) | file_get_content
 );
 
